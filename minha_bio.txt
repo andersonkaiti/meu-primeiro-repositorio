@@ -1,1 +1,1 @@
-Sou um estudante interessado em tecnologia, com foco em desenvolvimento web. Tenho conhecimento em HTML5, CSS3, JavaScript e estou iniciando meus estudos em Node.js, React.js e Next.js.
+Sou um estudante do UNISAGRADO interessado em tecnologia, com foco em desenvolvimento web. Tenho conhecimento em HTML5, CSS3, JavaScript e estou iniciando meus estudos em Node.js, React.js e Next.js.

@@ -3,3 +3,5 @@ Olá, mundo! Este é o meu primeiro commit.
 Oi! Este é o meu segundo commit.
 
 Oi! Este é o meu terceiro commit, mas dentro de uma nova branch.
+
+Oi! Este é o commit para o 9º exercício proposto pelo professor.
